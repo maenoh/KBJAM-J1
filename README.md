@@ -1,2 +1,2 @@
 # KBJAM-J1
-Keyboad PCB design for IchigoJam
+Keyboard PCB design for IchigoJam
